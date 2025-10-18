@@ -8,10 +8,9 @@
   <a href="https://simohb7.github.io/Protfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-222?style=flat-square&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:mohamedlahbari114@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <!-- Add more social badges as needed -->
 </p>
 
 ---
@@ -28,33 +27,39 @@
 ---
 
 ### ⚡ Tech Stack & Tools
-
-[![My Skills](https://skillicons.dev/icons?i=sap,odoo,docker,devops,js,ts,sql,oracle,py,react,nodejs,linux,git,github,vscode&perline=9)](https://skillicons.dev)
-<!-- Add/remove your relevant tech icons above! -->
-
-- **SAP**, **Odoo**, **Docker**
-- **DevOps**, **Linux**
-- **JavaScript**, **TypeScript**, **SQL**, **Oracle**
-- **Python**, **React**, **Node.js**
-- **Git**, **GitHub**, **VS Code**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=sap,odoo,docker,devops,js,ts,sql,oracle,py,react,nodejs,linux,git,github,vscode" />
+</p>
 
 ---
 
-### 🚀 My GitHub Highlights
+### 🚀 My GitHub Stats & Widgets
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SimoHb7&show_icons=true&theme=tokyonight" alt="SimoHb7's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SimoHb7&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SimoHb7&theme=tokyonight" alt="GitHub Streak"/>
   <img src="https://github-profile-trophy.vercel.app/?username=SimoHb7&theme=darkhub&margin-w=15"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=SimoHb7&theme=tokyo-night" alt="Activity Graph"/>
+  <img src="https://komarev.com/ghpvc/?username=SimoHb7&label=Profile%20views&color=blue&style=plastic" alt="Profile views"/>
 </p>
 
 ---
 
 ### 📌 Featured Projects
 
-<a href="https://github.com/SimoHb7/Hotel-Management"><img align="left" width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=SimoHb7&repo=Hotel-Management&theme=tokyonight" /></a>
-<a href="https://github.com/SimoHb7/Gestion-Reservation"><img align="left" width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=SimoHb7&repo=Gestion-Reservation&theme=tokyonight" /></a>
-<a href="https://github.com/SimoHb7/Protfolio"><img align="left" width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=SimoHb7&repo=Protfolio&theme=tokyonight" /></a>
+<a href="https://github.com/SimoHb7/Hotel-Management">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=SimoHb7&repo=Hotel-Management&theme=tokyonight" />
+</a>
+<a href="https://github.com/SimoHb7/Gestion-Reservation">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=SimoHb7&repo=Gestion-Reservation&theme=tokyonight" />
+</a>
+<a href="https://github.com/SimoHb7/Protfolio">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=SimoHb7&repo=Protfolio&theme=tokyonight" />
+</a>
+<a href="https://github.com/SimoHb7/Pizza-mobile-app">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=SimoHb7&repo=Pizza-mobile-app&theme=tokyonight" />
+</a>
+<!-- Add/remove more as you wish—only show repos with some stars/activity! -->
 <br clear="left"/>
 
 ---
@@ -71,10 +76,12 @@
 ### 🤝 Let’s Connect!
 
 - 🌐 [Portfolio](https://simohb7.github.io/Protfolio/)
-- 📧 Email: your-email@gmail.com (replace with your contact)
-- 💬 Open to collaboration and freelance/consulting opportunities
+- 📧 Email: mohamedlahbari114@gmail.com
 
 ---
 
-<!-- Optionally add fun facts, blog widget, or contribution graph -->
+<!-- GIF demo (example placeholder, update to real GIF if you want) -->
+<p align="center">
+  <img src="https://media.giphy.com/media/2a8E7Q2ktt8MUQ0GnR/giphy.gif" alt="dev gif" width="350"/>
+</p>
 
