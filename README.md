@@ -1,5 +1,5 @@
 <!-- Profile Banner (replace with your own for extra personality) -->
-<img src="https://github.com/SimoHb7.png" alt="profile banner" width="100%" />
+<img src="https://github.com/SimoHb7.png" alt="profile banner" width="50%" />
 
 <!-- Profile Animated Intro -->
 <p align="center">
@@ -36,22 +36,25 @@
 
 ### 🛠️ Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,py,sql,oracle,docker,linux,git,github,vscode,webpack,sap" />  
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,py,docker,linux,git,github,vscode,webpack,sap" />  
 </p>
 
 ---
 
 ### 📊 GitHub Widgets  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SimoHb7&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SimoHb7&theme=tokyonight" height="170"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SimoHb7&theme=tokyonight" height="170"/>
+
+<!-- Add personal demo GIFs, widgets, blogs, or fun facts here! 
+  <img src="https://github-readme-stats.vercel.app/api?username=SimoHb7&show_icons=true&theme=tokyonight" height="170" /> 
   <img src="https://github-profile-trophy.vercel.app/?username=SimoHb7&theme=algolia&row=1&margin-w=15"/>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=SimoHb7&theme=react-dark" height="120" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=SimoHb7&theme=react-dark" height="120" /> -->
   <img src="https://komarev.com/ghpvc/?username=SimoHb7&style=for-the-badge" />
 </p>
 
 ---
 
+<!-- 
 ### 📌 Featured Projects  
 <a href="https://github.com/SimoHb7/Hotel-Management">
   <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=SimoHb7&repo=Hotel-Management&theme=tokyonight" />
@@ -66,7 +69,7 @@
   <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=SimoHb7&repo=Pizza-mobile-app&theme=tokyonight" />
 </a>
 <br clear="left"/>
-
+ -->
 ---
 
 ### 🏆 Achievements  
