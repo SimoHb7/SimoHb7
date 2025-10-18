@@ -4,7 +4,7 @@
 </p>
 <!-- Profile Animated Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=500&color=0099FF&center=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohamed+Lahbari+%7C+SimoHb7;Full+Stack+Developer;SAP%2C+Odoo%2C+DevOps+Expert;Passionate+about+building+smart+solutions!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=500&color=0099FF&center=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohamed+Lahbari+%7C+SimoHb7;Full+Stack+Developer;SAP%2C+Odoo%2C+DevOps;Passionate+about+building+smart+solutions!" />
 </p>
 
 <!-- Social, Portfolio, Contact Badges -->
