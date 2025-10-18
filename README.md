@@ -1,6 +1,7 @@
 <!-- Profile Banner (replace with your own for extra personality) -->
+<p align="center">
 <img src="https://github.com/SimoHb7.png" alt="profile banner" width="50%" />
-
+</p>
 <!-- Profile Animated Intro -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=500&color=0099FF&center=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohamed+Lahbari+%7C+SimoHb7;Full+Stack+Developer;SAP%2C+Odoo%2C+DevOps+Expert;Passionate+about+building+smart+solutions!" />
@@ -44,8 +45,8 @@
 ### 📊 GitHub Widgets  
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=SimoHb7&theme=tokyonight" height="170"/>
-
-<!-- Add personal demo GIFs, widgets, blogs, or fun facts here! 
+<br>
+<!-- 
   <img src="https://github-readme-stats.vercel.app/api?username=SimoHb7&show_icons=true&theme=tokyonight" height="170" /> 
   <img src="https://github-profile-trophy.vercel.app/?username=SimoHb7&theme=algolia&row=1&margin-w=15"/>
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=SimoHb7&theme=react-dark" height="120" /> -->
